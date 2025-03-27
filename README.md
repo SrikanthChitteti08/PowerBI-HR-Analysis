@@ -3,7 +3,7 @@
 This Power BI dashboard provides key HR insights, including employee attrition, salary distribution, experience levels, and department performance ratings. The goal is to help HR teams monitor workforce trends and make data-driven decisions.
 
 ## 📸 Dashboard Preview
-![Screenshot 2025-03-16 121618](https://github.com/user-attachments/assets/d9793911-9968-4592-ad0b-68a59cd96bdd)
+![HR Analysis](https://github.com/user-attachments/assets/39843acd-5f19-46ca-a5f2-5fe4cf4ef2a8)
 
 ## 📈 Key Insights
 - Total Employees → 1,470
